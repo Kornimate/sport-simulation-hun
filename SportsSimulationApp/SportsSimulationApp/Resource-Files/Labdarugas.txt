@@ -1,0 +1,131 @@
+10
+Ferencvaros,12
+Dibusz Denes,31,90
+Botka Endre,27,88
+Katona Mate,24,85
+Nguen Tokmac Chol,28,90
+Blazic Miha,29,90
+Zubkov Oleksandr,25,88
+Uzuni Myrto,26,84
+Mak Robert,31,82
+Loncar Stjepan,25,87
+Kovacevic Adnan,28,87
+Szantho Gergo,21,83
+Redzic Damir,19,79
+Puskas Akademia,12
+Markek Tamas,30,84
+Nagy Zsolt,28,87
+Kiss Tamas,21,83
+Komaromi Gyorgy,20,80
+Gera Daniel Richard,26,81
+Favorov Artem,28,85
+Stronati Patrizio,27,84
+Pulzjic Jakov,28,83
+Gruber Zsombor,17,75
+Bakti Balazs,17,79
+Szolnoki Roland,30,86
+Csirmaz Istvan,27,87
+Kisvarda,12
+Gosztonyi Andras,31,87
+Dombo David,29,87
+Jelena Richard,24,85
+Hej Viktor,26,84
+Bohdan Melnyik,25,83
+Odyntsov Artem,21,81
+Anton Kravchenko,31,89
+Driton Camaj,25,82
+Lazar Cirkovic,29,87
+Prenga Herdi,27,87
+Asani Jasir,27,85
+Nemeth Mark,20,83
+MOL Fehervar FC,12
+Kovacs Daniel,28,87
+Kojnok Zsolt,21,79
+Dinnyes Oliver,22,84
+Gundel-Takacs Bence,24,83
+Fiola Attila,32,90
+Tamas Oliver,21,82
+Nego Loic,31,91
+Heister Marcel,29,87
+Petryak Ivan,28,87
+Zivzivadze Budu,28,89
+Musliu Visar,27,85
+Dardai Pal,23,84
+Paks,12
+Kinyik Akos,29,87
+Szabo Janos,32,89
+Papp Kristof,29,86,
+Lorentz Martnon,27,83
+Balogh Balazs,31,90
+Bode Daniel,35,89
+Kulcsar David,34,85
+Adam Martin,27,84
+Racz Gergo,26,83
+Haraszti Zsolt,30,86
+Betrus Lajos,31,86
+Tamas Oliver,21,81
+Ujpest,12
+Simon Krisztian,30,89
+Csongvai Aron,21,82
+Pajovic Filip,28,86
+Mitrovic Nikola,35,86
+Beridze Giorgi,25,87
+Kastrati Lirim,23,84
+Nemanja Antonov,27,88
+Jevtoski Stefan,24,83
+Mate Zsolt,24,84
+Tomori Zoltan,23,81
+Luca Mack,21,79
+Abdoulaye Diaby,21,84
+Zalaegerszeg,12
+Kalnoki Kis David,30,85
+Koszta Mark,25,81
+Demjen Patrik,24,79
+Zimonyi David,24,81
+Gergenyi Bence,24,83
+Tajti Tamas,23,85
+Nemeth Daniel,18,82
+Halilovic Emir,32,90
+Spoljaric Bojan,28,88
+Huszti Andras,21,83
+Lesjak Zoltan,34,84
+Grezda Eros,27,85
+Debreceni VSC,12
+Dzsudzsak Balazs,35,90
+Grof David Attila,33,87
+Szecsi Mark,28,84
+Pinter Adam,20,83
+Korhut Mihaly,33,87
+Gyonyoru Gergo,21,81
+Barany Donat,21,79
+Kosicky Tomas,36,84
+Nikolic Marko,24,84
+Ugrai Roland Andras,29,88
+Barath Peter,20,81
+Ferenczi Janos,31,86
+Mezokovesd,12
+Cseke Bejamin,27,86
+Nagy Daniel,31,88
+Madarasz Mark,26,83
+Antal Botond,30,85
+Vajda Sandor,30,85
+Cseri Tamas,34,87
+Kocsis Gergo Bence,28,82
+Farkas Daniel,29,84
+Vagi Andras,33,88
+Szepe Janos,26,81
+Katanec Matija,32,86
+Jurina Marin,28,84
+Honved FC,12
+Barath Botond,30,87
+Zsoter Donat,26,88
+Eppel Marton,30,89
+Hidi Patrik,31,87
+Lovric Ivan,36,81
+Bardea Nir,26,79
+Lukic Nenad,29,83
+Batik Bence,28,83
+Pantelic Dusan,29,81
+Duzs Gellert,20,76
+Batik Bence,28,85
+Machach Zinedine,26,84

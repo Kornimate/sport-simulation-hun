@@ -1,0 +1,31 @@
+10
+Mercedes,2
+George Russel,24,85
+Lewis Hamilton,37,94
+Williams,2
+Nicholas Latifi,26,70
+Alexander Albon,26,80
+Alpha Tauri,2
+Pierre Gasly,26,87
+Yuki Tsunoda,21,79
+Alfa Romeo,2
+Valtteri Bottas,32,89
+Zhou Guanyu,22,75
+Redbull,2
+Sergio Perez,32,90
+Max Verstappen,24,95
+Alpine,2
+Fernando Alonso,40,91
+Esteban Ocon,25,84
+Mclaren,2
+Lando Norris,22,88
+Daniel Ricciardo,32,86
+Haas,2
+Mick Schumacher,23,79
+Kevin Magnussen,29,84
+Aston Martin,2
+Sebastian Vettel,34,86
+Lance Stroll,23,81
+Ferrari,2
+Carlos Sainz,27,89
+Charles Leclerc,24,93

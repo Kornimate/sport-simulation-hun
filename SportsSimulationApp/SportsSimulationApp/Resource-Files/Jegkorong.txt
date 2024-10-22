@@ -1,0 +1,91 @@
+10
+Csikszereda,8
+Samankov Maksim,32,80
+Gecse Hugo,27,85
+Kulyash Denis,38,88
+Laday Tamas,26,87
+Kubat Karel,33,85
+Fodor Csanad,31,88
+Peter Balazs,25,89
+Reisz Aron Sandor,27,90
+Ferencvaros,8
+Arany Gergely,25,80
+Boros Daniel,24,75
+Hegyi Adam,35,81
+Sarcia Antonio,23,77
+Karmeniemi Lauri,31,90
+Farkas Lorinc Simon,29,83
+Komaromy Botond,20,71
+Kulmala Rasmus,27,85
+Ujpest,8
+Monostori Tamas,20,81
+Horvath Andras,21,79
+Jago Tanner,27,89
+Kiss Philipp,29,83
+Varga Arnold,29,81
+Kiss Patrik,24,83
+Nemes Benjamin,29,84
+Suter Jack, 27,88
+Gyergyoi HK,8
+Demeter Arnold,20,79
+Fejes Nándor,23,81
+Kozma Zsolt,33,87
+Haaranen Matias,25,88
+Biro Gergo,27,84
+Imre Patrik,25,83
+Lazar Kain,23,82
+Sillo Arnold,27,88
+MAC Ujbuda,8
+Balizs Bence,31,88
+Csollak Marko,19,79
+Garat Zsombor,24,87
+Scott Macaulay,31,90
+Pozsgai Tamas,33,88
+Izacky Jakub,28,88
+Kozma David,21,81
+Klima Lukas,31,90
+Brasso,8
+Polc Patrik,37,85
+Raduly Norbert,23,83
+Gajdo Tamas,20,78
+MacDonald Cole,26,88
+Molnar Zoltan,27,86
+Buda Gabor,20,81
+Hunt Garet,34,91
+Huard Nick,31,90
+DEAC,8
+Gonczi Lajos,22,83
+Goz Balazs,29,88
+Jakabfy Samuel,20,81
+Klimek Jordan,26,86
+Kloz Vojtech,26,88
+Dalecky Jan,32,90
+Mazzag Daniel,26,87
+Spirko Rastislav,37,92
+DVTK,8
+Kiss Bence,24,83
+Illes Marton,18,73
+Hyvrainen Ville,30,90
+Molnar Mark,19,84
+Walker Jack,25,90
+Mattyasovszky Gergely,17,83
+Chris Seto,24,90
+Miskolczi Mark,28,91
+Gyori ETO,8
+Toth Karoly Balazs,23,88
+Kmec Dusan,28,86
+Lendak Martin,28,88
+Bugar Gabor,22,83
+Lerant Rene,27,81
+Czako Barna,24,88
+Majoross Barnabas,23,84
+Schmal Kristof,26,90
+Titanok,8
+Szeles Martin,22,84
+Dolinar Tim,19,83
+Farkas Botond,20,83
+Mingazov Kamil,25,88
+Reiter Attila,27,86
+Dmitri Dudkin,20,85
+Lundin Jacob,28,90
+Krasnican Martin,25,89
